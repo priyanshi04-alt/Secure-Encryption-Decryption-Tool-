@@ -59,10 +59,10 @@ EncryptionProject/
 
 ### 1️⃣ Install Python (3.10+)
 ```bash
-python --version
-###2️⃣Install Dependencies
+python --version 
+####2️⃣Install Dependencies
 pip install cryptography
-▶️How to Run
+#####▶️How to Run
 Step 1: Generate Salt (Only Once)
 python generate_salt.py
 Step 2: Start the Application
