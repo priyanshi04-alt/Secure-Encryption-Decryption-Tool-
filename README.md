@@ -52,6 +52,7 @@ EncryptionProject/
 ├── login_gui.py # Login screen (start here)
 ├── gui_encrypt.py # Encryption & decryption GUI
 └── README.md
+└── Screenshots
 
 ---
 ```md
