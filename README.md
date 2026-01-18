@@ -60,41 +60,41 @@ EncryptionProject/
 ### 1️⃣ Install Python (3.10+)
 ```bash
 python --version
-Install Dependencies
+###2️⃣Install Dependencies
 pip install cryptography
-How to Run
+▶️How to Run
 Step 1: Generate Salt (Only Once)
 python generate_salt.py
 Step 2: Start the Application
 python login_gui.py
-Demo Login
+🔑Demo Login
 Password: secure123
 ⚠️ Password is hardcoded for demo/academic purposes only.
 
-Application Modules
+🧩Application Modules
 Login Module – Authenticates user
 Key Derivation Module – Generates secure key using PBKDF2
 Encryption Module – Converts plaintext → ciphertext
 Decryption Module – Restores original data
 Session Management – Logout clears active key
 
-Academic Use
+🎓Academic Use
 ✔ Mini Project / IP
 ✔ Cybersecurity Demonstration
 ✔ Final-Year Project Base
 ✔ Resume / GitHub Portfolio
 
-Future Enhancements
+🚀Future Enhancements
 Store hashed passwords instead of hardcoding
 Add file encryption (PDF, TXT, Images)
 Multi-user authentication system
 Client-server encrypted communication
 Two-factor authentication (2FA)
 
-Author
+👩‍💻Author
 Priyanshi
 Computer Science & Engineering
 
-License
+📜License
 This project is for educational purposes only.
 
